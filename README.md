@@ -22,5 +22,3 @@ Insights-
 •	For example, we found that there were more male patients than female patients in our dataset, which could suggest a need for targeted healthcare interventions for women. These insights demonstrate the potential impact of data analysis in improving healthcare outcomes.
 
 
-•	Formatting information for internal and external communication . 
-•	Preparing reports and dashboards, updating data as when required
