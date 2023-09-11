@@ -21,9 +21,6 @@ Insights-
 •	Furthermore, by analyzing the patient data, we were able to identify patterns and trends that could inform healthcare policies and practices. 
 •	For example, we found that there were more male patients than female patients in our dataset, which could suggest a need for targeted healthcare interventions for women. These insights demonstrate the potential impact of data analysis in improving healthcare outcomes.
 
-Lancesoft, Inc., Bhubaneswar, Odisha   	    NOV 2022-Aug 2023
-Associate US recruiter, (Life Science, Clinical, Pharmaceutical) (Remote)
-•	Working for many Pharmaceutical, Scientific or clinical roles for many clients through out USA such as Gilead Sciences, Kite Pharma, Beckton Dickinson, Merck &Co Inc., Bristol Mayor Squib (BMS), Takeda Pharmaceutical, Shire pharmaceutical, Thermo fisher Scientific, Eisai and Abbott. 
-•	Proficient with requirements such as Research associate, Quality specialist,Scientist,Clinical research associate , Clinical data manager, Clinical trial associate,TMF lead, Researcher, Manufacturing technician etc.
+
 •	Formatting information for internal and external communication . 
 •	Preparing reports and dashboards, updating data as when required
